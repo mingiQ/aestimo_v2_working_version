@@ -1,0 +1,481 @@
+2024-07-25 12:33:17,639 WARNING aestimo psi_at_inf_cython module not found
+2024-07-25 12:33:50,634 INFO aestimo Total layer number: 7
+2024-07-25 12:33:50,636 INFO aestimo Total number of materials in database: 25
+2024-07-25 12:33:57,104 INFO aestimo calculation time  6.46434 s
+2024-07-25 12:33:58,443 INFO aestimo Simulation is finished.
+2024-07-25 12:36:04,398 INFO aestimo Total layer number: 7
+2024-07-25 12:36:04,400 INFO aestimo Total number of materials in database: 25
+2024-07-25 12:36:10,307 INFO aestimo calculation time  5.90571 s
+2024-07-25 12:36:11,405 INFO aestimo Simulation is finished.
+2024-07-25 12:38:31,758 INFO aestimo Total layer number: 7
+2024-07-25 12:38:31,760 INFO aestimo Total number of materials in database: 25
+2024-07-25 12:38:33,419 INFO aestimo calculation time  1.65734 s
+2024-07-25 12:38:34,550 INFO aestimo Simulation is finished.
+2024-07-25 12:38:57,597 INFO aestimo Total layer number: 7
+2024-07-25 12:38:57,599 INFO aestimo Total number of materials in database: 25
+2024-07-25 12:39:03,807 INFO aestimo calculation time  6.20603 s
+2024-07-25 12:39:04,881 INFO aestimo Simulation is finished.
+2024-07-25 12:39:23,395 INFO aestimo Total layer number: 7
+2024-07-25 12:39:23,396 INFO aestimo Total number of materials in database: 25
+2024-07-25 12:39:23,398 INFO aestimo Ntotal2d 5e+15 m**-2
+2024-07-25 12:39:23,399 INFO aestimo Iteration: 1
+2024-07-25 12:39:23,572 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:23,574 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:23,575 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:23,591 INFO aestimo E[0]= 953.563384 meV
+2024-07-25 12:39:23,591 INFO aestimo E[1]= 1033.113477 meV
+2024-07-25 12:39:23,592 INFO aestimo E[2]= 1141.217991 meV
+2024-07-25 12:39:23,593 INFO aestimo meff[0]= 0.063139
+2024-07-25 12:39:23,594 INFO aestimo meff[1]= 0.067772
+2024-07-25 12:39:23,594 INFO aestimo meff[2]= 0.075118
+2024-07-25 12:39:23,595 INFO aestimo N[0]= 4.99999e+15 m**-2
+2024-07-25 12:39:23,596 INFO aestimo N[1]= 1.13016e+10 m**-2
+2024-07-25 12:39:23,597 INFO aestimo N[2]= 6.43718 m**-2
+2024-07-25 12:39:23,597 INFO aestimo Efermi (at 60K) = 972.214 meV
+2024-07-25 12:39:23,598 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:23,600 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:23,600 INFO aestimo total system charge = -35.2397 m**-2
+2024-07-25 12:39:23,600 INFO aestimo Iteration: 2
+2024-07-25 12:39:23,787 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:23,789 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:23,791 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:23,804 INFO aestimo E[0]= 971.919689 meV
+2024-07-25 12:39:23,805 INFO aestimo E[1]= 1049.774184 meV
+2024-07-25 12:39:23,806 INFO aestimo E[2]= 1156.531140 meV
+2024-07-25 12:39:23,807 INFO aestimo meff[0]= 0.063148
+2024-07-25 12:39:23,808 INFO aestimo meff[1]= 0.067809
+2024-07-25 12:39:23,808 INFO aestimo meff[2]= 0.075381
+2024-07-25 12:39:23,809 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:23,810 INFO aestimo N[1]= 1.50769e+10 m**-2
+2024-07-25 12:39:23,811 INFO aestimo N[2]= 11.1567 m**-2
+2024-07-25 12:39:23,811 INFO aestimo Efermi (at 60K) = 990.299 meV
+2024-07-25 12:39:23,812 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:23,813 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:23,814 INFO aestimo total system charge = -25.3108 m**-2
+2024-07-25 12:39:23,814 INFO aestimo Iteration: 3
+2024-07-25 12:39:24,072 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:24,074 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:24,077 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:24,092 INFO aestimo E[0]= 981.063924 meV
+2024-07-25 12:39:24,093 INFO aestimo E[1]= 1058.077924 meV
+2024-07-25 12:39:24,094 INFO aestimo E[2]= 1164.035499 meV
+2024-07-25 12:39:24,094 INFO aestimo meff[0]= 0.063153
+2024-07-25 12:39:24,095 INFO aestimo meff[1]= 0.067829
+2024-07-25 12:39:24,095 INFO aestimo meff[2]= 0.075577
+2024-07-25 12:39:24,096 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:24,097 INFO aestimo N[1]= 1.73975e+10 m**-2
+2024-07-25 12:39:24,098 INFO aestimo N[2]= 15.0436 m**-2
+2024-07-25 12:39:24,098 INFO aestimo Efermi (at 60K) = 999.311 meV
+2024-07-25 12:39:24,099 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:24,100 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:24,101 INFO aestimo total system charge = 68.879 m**-2
+2024-07-25 12:39:24,103 INFO aestimo Iteration: 4
+2024-07-25 12:39:24,289 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:24,291 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:24,293 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:24,308 INFO aestimo E[0]= 985.621330 meV
+2024-07-25 12:39:24,309 INFO aestimo E[1]= 1062.220025 meV
+2024-07-25 12:39:24,310 INFO aestimo E[2]= 1167.729267 meV
+2024-07-25 12:39:24,310 INFO aestimo meff[0]= 0.063156
+2024-07-25 12:39:24,311 INFO aestimo meff[1]= 0.067839
+2024-07-25 12:39:24,311 INFO aestimo meff[2]= 0.075705
+2024-07-25 12:39:24,312 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:24,313 INFO aestimo N[1]= 1.8673e+10 m**-2
+2024-07-25 12:39:24,314 INFO aestimo N[2]= 17.6241 m**-2
+2024-07-25 12:39:24,315 INFO aestimo Efermi (at 60K) = 1003.8 meV
+2024-07-25 12:39:24,315 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:24,316 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:24,317 INFO aestimo total system charge = -195.26 m**-2
+2024-07-25 12:39:24,318 INFO aestimo Iteration: 5
+2024-07-25 12:39:24,586 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:24,588 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:24,590 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:24,608 INFO aestimo E[0]= 987.893193 meV
+2024-07-25 12:39:24,608 INFO aestimo E[1]= 1064.287036 meV
+2024-07-25 12:39:24,609 INFO aestimo E[2]= 1169.556334 meV
+2024-07-25 12:39:24,610 INFO aestimo meff[0]= 0.063157
+2024-07-25 12:39:24,611 INFO aestimo meff[1]= 0.067844
+2024-07-25 12:39:24,611 INFO aestimo meff[2]= 0.075779
+2024-07-25 12:39:24,611 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:24,612 INFO aestimo N[1]= 1.93357e+10 m**-2
+2024-07-25 12:39:24,614 INFO aestimo N[2]= 19.1264 m**-2
+2024-07-25 12:39:24,616 INFO aestimo Efermi (at 60K) = 1006.04 meV
+2024-07-25 12:39:24,617 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:24,618 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:24,618 INFO aestimo total system charge = -39.3013 m**-2
+2024-07-25 12:39:24,619 INFO aestimo Iteration: 6
+2024-07-25 12:39:24,844 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:24,847 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:24,849 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:24,865 INFO aestimo E[0]= 989.025816 meV
+2024-07-25 12:39:24,866 INFO aestimo E[1]= 1065.318707 meV
+2024-07-25 12:39:24,867 INFO aestimo E[2]= 1170.463544 meV
+2024-07-25 12:39:24,868 INFO aestimo meff[0]= 0.063158
+2024-07-25 12:39:24,869 INFO aestimo meff[1]= 0.067847
+2024-07-25 12:39:24,870 INFO aestimo meff[2]= 0.075820
+2024-07-25 12:39:24,872 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:24,873 INFO aestimo N[1]= 1.96705e+10 m**-2
+2024-07-25 12:39:24,873 INFO aestimo N[2]= 19.9375 m**-2
+2024-07-25 12:39:24,874 INFO aestimo Efermi (at 60K) = 1007.16 meV
+2024-07-25 12:39:24,875 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:24,876 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:24,877 INFO aestimo total system charge = -37.5381 m**-2
+2024-07-25 12:39:24,878 INFO aestimo Iteration: 7
+2024-07-25 12:39:25,110 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:25,111 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:25,114 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:25,129 INFO aestimo E[0]= 989.590495 meV
+2024-07-25 12:39:25,129 INFO aestimo E[1]= 1065.833661 meV
+2024-07-25 12:39:25,130 INFO aestimo E[2]= 1170.915106 meV
+2024-07-25 12:39:25,131 INFO aestimo meff[0]= 0.063158
+2024-07-25 12:39:25,131 INFO aestimo meff[1]= 0.067848
+2024-07-25 12:39:25,132 INFO aestimo meff[2]= 0.075841
+2024-07-25 12:39:25,132 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:25,133 INFO aestimo N[1]= 1.98373e+10 m**-2
+2024-07-25 12:39:25,134 INFO aestimo N[2]= 20.3577 m**-2
+2024-07-25 12:39:25,135 INFO aestimo Efermi (at 60K) = 1007.71 meV
+2024-07-25 12:39:25,137 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:25,139 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:25,140 INFO aestimo total system charge = -84.6876 m**-2
+2024-07-25 12:39:25,141 INFO aestimo Iteration: 8
+2024-07-25 12:39:25,357 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:25,360 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:25,361 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:25,373 INFO aestimo E[0]= 989.872023 meV
+2024-07-25 12:39:25,373 INFO aestimo E[1]= 1066.090702 meV
+2024-07-25 12:39:25,374 INFO aestimo E[2]= 1171.140177 meV
+2024-07-25 12:39:25,374 INFO aestimo meff[0]= 0.063158
+2024-07-25 12:39:25,375 INFO aestimo meff[1]= 0.067849
+2024-07-25 12:39:25,376 INFO aestimo meff[2]= 0.075852
+2024-07-25 12:39:25,377 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:25,377 INFO aestimo N[1]= 1.99198e+10 m**-2
+2024-07-25 12:39:25,378 INFO aestimo N[2]= 20.5708 m**-2
+2024-07-25 12:39:25,379 INFO aestimo Efermi (at 60K) = 1007.99 meV
+2024-07-25 12:39:25,380 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:25,380 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:25,381 INFO aestimo total system charge = -23.5108 m**-2
+2024-07-25 12:39:25,382 INFO aestimo Iteration: 9
+2024-07-25 12:39:25,563 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:25,565 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:25,567 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:25,585 INFO aestimo E[0]= 990.012383 meV
+2024-07-25 12:39:25,586 INFO aestimo E[1]= 1066.219005 meV
+2024-07-25 12:39:25,586 INFO aestimo E[2]= 1171.252437 meV
+2024-07-25 12:39:25,587 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:25,588 INFO aestimo meff[1]= 0.067849
+2024-07-25 12:39:25,588 INFO aestimo meff[2]= 0.075857
+2024-07-25 12:39:25,589 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:25,589 INFO aestimo N[1]= 1.99605e+10 m**-2
+2024-07-25 12:39:25,590 INFO aestimo N[2]= 20.6777 m**-2
+2024-07-25 12:39:25,591 INFO aestimo Efermi (at 60K) = 1008.13 meV
+2024-07-25 12:39:25,592 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:25,594 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:25,595 INFO aestimo total system charge = -62.0535 m**-2
+2024-07-25 12:39:25,596 INFO aestimo Iteration: 10
+2024-07-25 12:39:25,839 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:25,842 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:25,844 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:25,858 INFO aestimo E[0]= 990.082360 meV
+2024-07-25 12:39:25,858 INFO aestimo E[1]= 1066.283047 meV
+2024-07-25 12:39:25,859 INFO aestimo E[2]= 1171.308450 meV
+2024-07-25 12:39:25,860 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:25,860 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:25,861 INFO aestimo meff[2]= 0.075860
+2024-07-25 12:39:25,861 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:25,862 INFO aestimo N[1]= 1.99805e+10 m**-2
+2024-07-25 12:39:25,864 INFO aestimo N[2]= 20.7311 m**-2
+2024-07-25 12:39:25,865 INFO aestimo Efermi (at 60K) = 1008.2 meV
+2024-07-25 12:39:25,866 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:25,867 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:25,868 INFO aestimo total system charge = -14.5976 m**-2
+2024-07-25 12:39:25,869 INFO aestimo Iteration: 11
+2024-07-25 12:39:26,085 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:26,087 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:26,089 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:26,103 INFO aestimo E[0]= 990.117249 meV
+2024-07-25 12:39:26,104 INFO aestimo E[1]= 1066.315012 meV
+2024-07-25 12:39:26,104 INFO aestimo E[2]= 1171.336404 meV
+2024-07-25 12:39:26,105 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:26,106 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:26,106 INFO aestimo meff[2]= 0.075861
+2024-07-25 12:39:26,107 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:26,109 INFO aestimo N[1]= 1.99904e+10 m**-2
+2024-07-25 12:39:26,109 INFO aestimo N[2]= 20.7576 m**-2
+2024-07-25 12:39:26,110 INFO aestimo Efermi (at 60K) = 1008.23 meV
+2024-07-25 12:39:26,110 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:26,111 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:26,111 INFO aestimo total system charge = 98.5634 m**-2
+2024-07-25 12:39:26,112 INFO aestimo Iteration: 12
+2024-07-25 12:39:26,305 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:26,307 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:26,309 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:26,326 INFO aestimo E[0]= 990.134643 meV
+2024-07-25 12:39:26,327 INFO aestimo E[1]= 1066.330967 meV
+2024-07-25 12:39:26,328 INFO aestimo E[2]= 1171.350355 meV
+2024-07-25 12:39:26,329 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:26,331 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:26,333 INFO aestimo meff[2]= 0.075862
+2024-07-25 12:39:26,334 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:26,335 INFO aestimo N[1]= 1.99952e+10 m**-2
+2024-07-25 12:39:26,335 INFO aestimo N[2]= 20.7708 m**-2
+2024-07-25 12:39:26,337 INFO aestimo Efermi (at 60K) = 1008.25 meV
+2024-07-25 12:39:26,338 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:26,339 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:26,340 INFO aestimo total system charge = -27.0449 m**-2
+2024-07-25 12:39:26,341 INFO aestimo Iteration: 13
+2024-07-25 12:39:26,593 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:26,595 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:26,597 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:26,615 INFO aestimo E[0]= 990.143315 meV
+2024-07-25 12:39:26,615 INFO aestimo E[1]= 1066.338931 meV
+2024-07-25 12:39:26,616 INFO aestimo E[2]= 1171.357317 meV
+2024-07-25 12:39:26,618 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:26,618 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:26,619 INFO aestimo meff[2]= 0.075862
+2024-07-25 12:39:26,620 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:26,620 INFO aestimo N[1]= 1.99976e+10 m**-2
+2024-07-25 12:39:26,621 INFO aestimo N[2]= 20.7773 m**-2
+2024-07-25 12:39:26,622 INFO aestimo Efermi (at 60K) = 1008.26 meV
+2024-07-25 12:39:26,622 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:26,623 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:26,624 INFO aestimo total system charge = -39.5345 m**-2
+2024-07-25 12:39:26,625 INFO aestimo Iteration: 14
+2024-07-25 12:39:26,854 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:26,859 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:26,861 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:26,879 INFO aestimo E[0]= 990.147639 meV
+2024-07-25 12:39:26,880 INFO aestimo E[1]= 1066.342906 meV
+2024-07-25 12:39:26,882 INFO aestimo E[2]= 1171.360793 meV
+2024-07-25 12:39:26,884 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:26,885 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:26,885 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:26,886 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:26,887 INFO aestimo N[1]= 1.99988e+10 m**-2
+2024-07-25 12:39:26,888 INFO aestimo N[2]= 20.7806 m**-2
+2024-07-25 12:39:26,889 INFO aestimo Efermi (at 60K) = 1008.26 meV
+2024-07-25 12:39:26,890 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:26,891 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:26,891 INFO aestimo total system charge = -47.694 m**-2
+2024-07-25 12:39:26,892 INFO aestimo Iteration: 15
+2024-07-25 12:39:27,140 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:27,142 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:27,144 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:27,159 INFO aestimo E[0]= 990.149794 meV
+2024-07-25 12:39:27,162 INFO aestimo E[1]= 1066.344890 meV
+2024-07-25 12:39:27,166 INFO aestimo E[2]= 1171.362527 meV
+2024-07-25 12:39:27,171 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:27,195 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:27,197 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:27,197 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:27,198 INFO aestimo N[1]= 1.99994e+10 m**-2
+2024-07-25 12:39:27,199 INFO aestimo N[2]= 20.7822 m**-2
+2024-07-25 12:39:27,199 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:27,200 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:27,201 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:27,202 INFO aestimo total system charge = -49.7046 m**-2
+2024-07-25 12:39:27,204 INFO aestimo Iteration: 16
+2024-07-25 12:39:27,450 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:27,453 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:27,456 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:27,473 INFO aestimo E[0]= 990.150869 meV
+2024-07-25 12:39:27,474 INFO aestimo E[1]= 1066.345880 meV
+2024-07-25 12:39:27,475 INFO aestimo E[2]= 1171.363393 meV
+2024-07-25 12:39:27,476 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:27,476 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:27,477 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:27,478 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:27,479 INFO aestimo N[1]= 1.99996e+10 m**-2
+2024-07-25 12:39:27,480 INFO aestimo N[2]= 20.783 m**-2
+2024-07-25 12:39:27,481 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:27,483 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:27,484 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:27,486 INFO aestimo total system charge = -89.4274 m**-2
+2024-07-25 12:39:27,487 INFO aestimo Iteration: 17
+2024-07-25 12:39:27,695 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:27,696 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:27,699 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:27,712 INFO aestimo E[0]= 990.151405 meV
+2024-07-25 12:39:27,713 INFO aestimo E[1]= 1066.346375 meV
+2024-07-25 12:39:27,713 INFO aestimo E[2]= 1171.363825 meV
+2024-07-25 12:39:27,714 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:27,715 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:27,716 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:27,718 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:27,718 INFO aestimo N[1]= 1.99998e+10 m**-2
+2024-07-25 12:39:27,719 INFO aestimo N[2]= 20.7834 m**-2
+2024-07-25 12:39:27,719 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:27,720 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:27,721 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:27,722 INFO aestimo total system charge = -39.2628 m**-2
+2024-07-25 12:39:27,724 INFO aestimo Iteration: 18
+2024-07-25 12:39:27,915 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:27,916 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:27,919 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:27,933 INFO aestimo E[0]= 990.151672 meV
+2024-07-25 12:39:27,934 INFO aestimo E[1]= 1066.346621 meV
+2024-07-25 12:39:27,935 INFO aestimo E[2]= 1171.364041 meV
+2024-07-25 12:39:27,936 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:27,937 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:27,937 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:27,939 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:27,940 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:27,940 INFO aestimo N[2]= 20.7836 m**-2
+2024-07-25 12:39:27,941 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:27,942 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:27,943 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:27,944 INFO aestimo total system charge = 140.138 m**-2
+2024-07-25 12:39:27,945 INFO aestimo Iteration: 19
+2024-07-25 12:39:28,197 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:28,199 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:28,201 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:28,215 INFO aestimo E[0]= 990.151806 meV
+2024-07-25 12:39:28,215 INFO aestimo E[1]= 1066.346745 meV
+2024-07-25 12:39:28,216 INFO aestimo E[2]= 1171.364149 meV
+2024-07-25 12:39:28,216 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:28,217 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:28,218 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:28,218 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:28,219 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:28,221 INFO aestimo N[2]= 20.7837 m**-2
+2024-07-25 12:39:28,222 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:28,223 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:28,224 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:28,227 INFO aestimo total system charge = -213.738 m**-2
+2024-07-25 12:39:28,228 INFO aestimo Iteration: 20
+2024-07-25 12:39:28,405 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:28,408 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:28,410 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:28,422 INFO aestimo E[0]= 990.151872 meV
+2024-07-25 12:39:28,423 INFO aestimo E[1]= 1066.346806 meV
+2024-07-25 12:39:28,424 INFO aestimo E[2]= 1171.364202 meV
+2024-07-25 12:39:28,425 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:28,426 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:28,427 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:28,428 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:28,429 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:28,429 INFO aestimo N[2]= 20.7837 m**-2
+2024-07-25 12:39:28,431 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:28,432 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:28,432 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:28,433 INFO aestimo total system charge = -63.9424 m**-2
+2024-07-25 12:39:28,434 INFO aestimo Iteration: 21
+2024-07-25 12:39:28,654 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:28,656 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:28,659 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:28,675 INFO aestimo E[0]= 990.151905 meV
+2024-07-25 12:39:28,675 INFO aestimo E[1]= 1066.346837 meV
+2024-07-25 12:39:28,677 INFO aestimo E[2]= 1171.364229 meV
+2024-07-25 12:39:28,678 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:28,678 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:28,679 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:28,680 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:28,681 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:28,681 INFO aestimo N[2]= 20.7837 m**-2
+2024-07-25 12:39:28,682 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:28,684 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:28,685 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:28,686 INFO aestimo total system charge = 86.2056 m**-2
+2024-07-25 12:39:28,687 INFO aestimo Iteration: 22
+2024-07-25 12:39:28,949 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:28,952 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:28,955 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:28,970 INFO aestimo E[0]= 990.151922 meV
+2024-07-25 12:39:28,971 INFO aestimo E[1]= 1066.346852 meV
+2024-07-25 12:39:28,972 INFO aestimo E[2]= 1171.364243 meV
+2024-07-25 12:39:28,972 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:28,974 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:28,975 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:28,976 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:28,976 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:28,977 INFO aestimo N[2]= 20.7838 m**-2
+2024-07-25 12:39:28,978 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:28,979 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:28,980 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:28,981 INFO aestimo total system charge = 116.091 m**-2
+2024-07-25 12:39:28,983 INFO aestimo Iteration: 23
+2024-07-25 12:39:29,199 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:29,201 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:29,203 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:29,217 INFO aestimo E[0]= 990.151930 meV
+2024-07-25 12:39:29,217 INFO aestimo E[1]= 1066.346860 meV
+2024-07-25 12:39:29,218 INFO aestimo E[2]= 1171.364249 meV
+2024-07-25 12:39:29,219 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:29,220 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:29,221 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:29,222 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:29,223 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:29,223 INFO aestimo N[2]= 20.7838 m**-2
+2024-07-25 12:39:29,224 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:29,225 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:29,225 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:29,226 INFO aestimo total system charge = -73.0053 m**-2
+2024-07-25 12:39:29,227 INFO aestimo Iteration: 24
+2024-07-25 12:39:29,416 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:29,418 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:29,421 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:29,435 INFO aestimo E[0]= 990.151934 meV
+2024-07-25 12:39:29,436 INFO aestimo E[1]= 1066.346864 meV
+2024-07-25 12:39:29,437 INFO aestimo E[2]= 1171.364253 meV
+2024-07-25 12:39:29,438 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:29,438 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:29,439 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:29,439 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:29,441 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:29,441 INFO aestimo N[2]= 20.7838 m**-2
+2024-07-25 12:39:29,442 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:29,443 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:29,443 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:29,444 INFO aestimo total system charge = -62.1233 m**-2
+2024-07-25 12:39:29,445 INFO aestimo Iteration: 25
+2024-07-25 12:39:29,666 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:29,667 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:29,670 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:29,684 INFO aestimo E[0]= 990.151936 meV
+2024-07-25 12:39:29,685 INFO aestimo E[1]= 1066.346865 meV
+2024-07-25 12:39:29,686 INFO aestimo E[2]= 1171.364254 meV
+2024-07-25 12:39:29,687 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:29,687 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:29,688 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:29,688 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:29,689 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:29,689 INFO aestimo N[2]= 20.7838 m**-2
+2024-07-25 12:39:29,690 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:29,691 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:29,691 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:29,693 INFO aestimo total system charge = -10.051 m**-2
+2024-07-25 12:39:29,693 INFO aestimo Iteration: 26
+2024-07-25 12:39:29,910 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:29,913 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:29,915 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:29,931 INFO aestimo E[0]= 990.151937 meV
+2024-07-25 12:39:29,932 INFO aestimo E[1]= 1066.346866 meV
+2024-07-25 12:39:29,932 INFO aestimo E[2]= 1171.364255 meV
+2024-07-25 12:39:29,933 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:29,934 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:29,935 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:29,936 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:29,937 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:29,939 INFO aestimo N[2]= 20.7838 m**-2
+2024-07-25 12:39:29,939 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:29,940 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:29,940 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:29,940 INFO aestimo total system charge = 136.957 m**-2
+2024-07-25 12:39:29,941 INFO aestimo Iteration: 27
+2024-07-25 12:39:30,205 INFO aestimo Working for subband no: 1
+2024-07-25 12:39:30,208 INFO aestimo Working for subband no: 2
+2024-07-25 12:39:30,210 INFO aestimo Working for subband no: 3
+2024-07-25 12:39:30,226 INFO aestimo E[0]= 990.151938 meV
+2024-07-25 12:39:30,227 INFO aestimo E[1]= 1066.346867 meV
+2024-07-25 12:39:30,229 INFO aestimo E[2]= 1171.364256 meV
+2024-07-25 12:39:30,229 INFO aestimo meff[0]= 0.063159
+2024-07-25 12:39:30,230 INFO aestimo meff[1]= 0.067850
+2024-07-25 12:39:30,231 INFO aestimo meff[2]= 0.075863
+2024-07-25 12:39:30,231 INFO aestimo N[0]= 4.99998e+15 m**-2
+2024-07-25 12:39:30,232 INFO aestimo N[1]= 1.99999e+10 m**-2
+2024-07-25 12:39:30,233 INFO aestimo N[2]= 20.7838 m**-2
+2024-07-25 12:39:30,233 INFO aestimo Efermi (at 60K) = 1008.27 meV
+2024-07-25 12:39:30,234 INFO aestimo total donor charge = 5e+15 m**-2
+2024-07-25 12:39:30,235 INFO aestimo total level charge = 5e+15 m**-2
+2024-07-25 12:39:30,237 INFO aestimo total system charge = 130.684 m**-2
+2024-07-25 12:39:30,237 INFO aestimo calculation time  6.83771 s
+2024-07-25 12:39:31,576 INFO aestimo Simulation is finished.
